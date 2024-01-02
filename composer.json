@@ -2,7 +2,7 @@
     "name": "stackteamorg/stackteam-comming-soon",
     "description": "Comming soon for stack-ecosystem's websites",
     "type": "project",
-    "license": "STL",
+    "license": "STI",
     "autoload": {
         "psr-4": {
             "Stackteamorg\\StackteamCommingSoon\\": "src/"
